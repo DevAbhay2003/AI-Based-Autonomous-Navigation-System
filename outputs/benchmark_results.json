@@ -1,0 +1,10 @@
+{
+    "mission_success": true,
+    "total_time_sec": 19.22,
+    "distance_traveled_m": 54.76,
+    "average_speed_mps": 2.85,
+    "average_speed_kmh": 10.26,
+    "min_obstacle_clearance_m": 1.58,
+    "total_collisions": 0,
+    "steering_smoothness_index": 0.0209
+}

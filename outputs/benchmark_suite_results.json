@@ -1,0 +1,41 @@
+[
+    {
+        "mission_success": true,
+        "total_time_sec": 16.03,
+        "distance_traveled_m": 51.7,
+        "average_speed_mps": 3.22,
+        "average_speed_kmh": 11.61,
+        "min_obstacle_clearance_m": 1.73,
+        "total_collisions": 0,
+        "steering_smoothness_index": 0.0015,
+        "scenario_id": 1,
+        "scenario_name": "Baseline Clear Highway",
+        "planning_latency_ms": 7.19
+    },
+    {
+        "mission_success": true,
+        "total_time_sec": 17.35,
+        "distance_traveled_m": 55.81,
+        "average_speed_mps": 3.22,
+        "average_speed_kmh": 11.58,
+        "min_obstacle_clearance_m": 1.37,
+        "total_collisions": 0,
+        "steering_smoothness_index": 0.0027,
+        "scenario_id": 2,
+        "scenario_name": "Urban Obstacle Chicane",
+        "planning_latency_ms": 11.43
+    },
+    {
+        "mission_success": true,
+        "total_time_sec": 18.92,
+        "distance_traveled_m": 50.64,
+        "average_speed_mps": 2.68,
+        "average_speed_kmh": 9.64,
+        "min_obstacle_clearance_m": 1.58,
+        "total_collisions": 0,
+        "steering_smoothness_index": 0.0032,
+        "scenario_id": 3,
+        "scenario_name": "High-Density Dynamic Traffic",
+        "planning_latency_ms": 6.11
+    }
+]
