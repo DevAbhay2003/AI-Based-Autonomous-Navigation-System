@@ -297,10 +297,10 @@ All runs automatically generate visual proof saved in `outputs/screenshots/`:
 
 ## 👤 Author & Portfolio Contact
 
-- **Project Lead**: **Abhishek Basu — Embedded Systems Student GitHub: [DevAbhay2003](https://github.com/DevAbhay2003?tab=repositories) · LinkedIn: [Abhishek Basu](https://www.linkedin.com/in/abhishek-basu-68b1b1342/)**
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email**: your.email@example.com
+- **Project Lead**: **Abhishek Basu**
+- **GitHub**: [DevAbhay2003](https://github.com/DevAbhay2003?tab=repositories)
+- **LinkedIn**: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-basu-68b1b1342/)
+- **Email**: devabhishekbasu03@gmail.com
 
 ---
 *Built with ❤️ for robotics and autonomous driving portfolio excellence.*
